@@ -68,8 +68,6 @@
                     <?php endforeach; ?>
                 </ul>
     
-                <p>Perspiciatis hic praesentium nesciunt. Et neque a dolorum <a href='#0'>voluptatem</a> porro iusto sequi veritatis libero enim. Iusto id suscipit veritatis neque reprehenderit.</p>
-    
                 <ul class="header-nav__social">
                     <?php if($facebook): ?><li><a href="<?php echo $facebook; ?>"><i class="fab fa-facebook"></i></a></li><?php endif; ?>
                     <?php if($twitter): ?><li><a href="<?php echo $twitter; ?>"><i class="fab fa-twitter"></i></a></li><?php endif; ?>
