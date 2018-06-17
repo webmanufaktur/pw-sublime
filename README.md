@@ -51,7 +51,7 @@ template attribution/credit link free on ONE DOMAIN name.
 You can send your payments through Paypal to this address: ealigam@gmail.com
 
 If possible, kindly send us the site's url where the template is being used. 
-Also, keep your Paypal receipt as proof of payment and your good to go.
+Also, keep your Paypal receipt as proof of payment and you're good to go.
 
 **SUPPORT:**
     
@@ -73,7 +73,7 @@ jQuery in your skill-set, you can also check out these tutorials:
 **GET THE LATEST VERSION:**
 
 We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
+always download the template files directly from our website(https://www.styleshout.com/)
 
 **SOURCES AND CREDITS:**
 
